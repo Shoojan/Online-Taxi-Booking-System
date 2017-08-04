@@ -1,0 +1,257 @@
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\loginregister.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.xr.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\resources.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\AppxManifest.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.build.appxrecipe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\loginregister.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\loginregister.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\XamlTypeInfo.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\XamlSaveStateFile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\loginregister.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\loginregister.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\ProjectArchitectures.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe.config
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csproj.GenerateResource.Cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csprojResolveAssemblyReference.cache
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe.config
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\App.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Login.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\map.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.xr.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.pdb
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\resources.pri
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\AppxManifest.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.build.appxrecipe
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\SlideView.Library.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.i.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.i.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.i.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.i.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.xaml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xaml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xaml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\App.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\XamlSaveStateFile.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.xaml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\map.xbf
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.exe
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.pdb
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csproj.GenerateResource.Cache
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles.intermediate
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt.intermediate
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\ProjectArchitectures.txt
+C:\Users\plumi\Desktop\Solution\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csprojResolveAssemblyReference.cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe.config
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Login.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.xr.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\resources.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\AppxManifest.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.build.appxrecipe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\SlideView.Library.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\XamlTypeInfo.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\App.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\XamlSaveStateFile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\map.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csproj.GenerateResource.Cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\ProjectArchitectures.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\bin\Debug\BlankPage1.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csprojResolveAssemblyReference.cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1)\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe.config
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BlankPage1.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Login.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.xr.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\resources.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\AppxManifest.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.build.appxrecipe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\SlideView.Library.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Newtonsoft.Json.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Extensions.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\System.Net.Http.Primitives.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\App.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Login.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\map.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\XamlTypeInfo.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\App.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\map.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BlankPage1.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Login.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\map.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\XamlSaveStateFile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csproj.GenerateResource.Cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\qualifiers.txt.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\ProjectArchitectures.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 (1) - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\BookTaxiV2.csprojResolveAssemblyReference.cache

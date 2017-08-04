@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="BookTaxiV2.map"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookTaxiV2"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar >
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="help" Label="Help" Click="help_Click"/>
+                <AppBarButton x:Name="logreg" Label="Logout" Click="logreg_Click" />
+            </CommandBar.SecondaryCommands>
+            <AppBarButton Name="reqhere"          
+                          Click="reqhere_Click" 
+                          Label="Request" 
+                          Icon="Download"/>
+            <AppBarButton x:Name="mylocation"  
+            	          Click="mylocation_Click" 
+                          Label="My Location" Icon="Target"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="mainmap" HorizontalAlignment="Stretch"
+                Margin="8,8,8,8" VerticalAlignment="Stretch">
+        <Grid.Background>
+            <ImageBrush Stretch="Uniform" ImageSource="Assets/Images/Nepaltaxi.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="map1" Grid.Row="0" Opacity="0.85" Loaded="map1_Loaded">
+
+            <Border CornerRadius="10" BorderBrush="Yellow" Opacity="0.85" BorderThickness="10">
+
+                <Maps:MapControl Name="MyMap" Margin="2,2,2,2" MapTapped="MyMap_MapTapped" Opacity="0.85"/>
+            </Border>
+            <Slider Name="mySlider" Margin="0,70,10,70"
+            Maximum="20" 
+                Minimum="10"
+                ValueChanged="Slider_ValueChanged" HorizontalAlignment="Right" RenderTransformOrigin="0.5,0.5" Width="34" Orientation="Vertical" Opacity="0.9" />
+
+        </Grid>
+
+        <TextBlock Name="positionTextBlock" 
+                   Grid.Row="2"
+                   FontSize="22" />
+        <Image Grid.Row="0" x:Name="image" HorizontalAlignment="Center" Height="90" Margin="0,-70,0,0" VerticalAlignment="Center" Width="76" Source="Assets/Images/pin.png"/>
+
+        <Canvas Margin="5,10,0,0" Grid.Row="1">
+            <ProgressBar x:Name="progressBar" 
+                         IsIndeterminate="True"
+                         Maximum="100" Value="30"
+                         Height="20"
+                         Width="400"/>
+        </Canvas>
+
+        <Grid x:Name="taxifare" Grid.Row="0" Background="#FF404040" Opacity="0.9" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid>
+                <TextBlock Text="Taxi Fares" Foreground="#FFDEFF0B" FontSize="37.333" TextAlignment="Center" FontWeight="Bold"/>
+                <AppBarButton x:Name="fclose" Icon="Cancel" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,-5,-6,0" Height="53" Width="75" Foreground="#FFFB0000" Click="close_Click"/>
+            </Grid>
+            <TextBlock Grid.Row="1" Text="COMING SOON..." FontSize="50" HorizontalAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Page>

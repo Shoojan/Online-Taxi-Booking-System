@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\plumi\documents\visual studio 2015\projects\taxicontrolcenter\taxicontrolcenter\obj\debug\intermediatexaml\taxicontrolcenter.exe" HashGuid="90af3c4d-0dfc-218b-a122-ceb8397dea8a" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\windowsazure.messaging.managed.0.1.7.9\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\microsoft.azure.mobile.client.2.0.1\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="d7ccb84c-759c-fa2f-e873-8857cbb0622e" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\microsoft.azure.mobile.client.2.0.1\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="8e717174-2dda-06be-e0d7-9ee261acde16" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\taxicontrolcenter\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

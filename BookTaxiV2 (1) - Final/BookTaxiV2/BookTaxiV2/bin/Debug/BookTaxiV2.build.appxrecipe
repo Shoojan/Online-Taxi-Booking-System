@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RNUOGUG</Machine>
+    <WindowsUser>Aayus</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>deee7004-a522-4f93-a666-793d9fa3894c</PackageIdentityName>
+    <IntermediateOutputPath>D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe">
+      <PackagePath>BookTaxiV2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.exe.config">
+      <PackagePath>BookTaxiV2.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\wpa81\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\wpa81\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\wpa81\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\SlideView.1.4.2\lib\wpa81\SlideView.Library.dll">
+      <PackagePath>SlideView.Library.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\12562658_1025280004232179_1355859561_o.jpg">
+      <PackagePath>Assets\Images\12562658_1025280004232179_1355859561_o.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\edit-icon.png">
+      <PackagePath>Assets\Images\edit-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\email-icon-614x460.png">
+      <PackagePath>Assets\Images\email-icon-614x460.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\Food-Birthday-Cake-icon.png">
+      <PackagePath>Assets\Images\Food-Birthday-Cake-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\help.png">
+      <PackagePath>Assets\Images\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\key-512.png">
+      <PackagePath>Assets\Images\key-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\login_user_profile_account-512.png">
+      <PackagePath>Assets\Images\login_user_profile_account-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\Maps-Define-Location-icon.png">
+      <PackagePath>Assets\Images\Maps-Define-Location-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\Mobile-Phone-icon.png">
+      <PackagePath>Assets\Images\Mobile-Phone-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\Nepaltaxi.png">
+      <PackagePath>Assets\Images\Nepaltaxi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\taxi1.png">
+      <PackagePath>Assets\Images\taxi1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\user.png">
+      <PackagePath>Assets\Images\user.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\user111.png">
+      <PackagePath>Assets\Images\user111.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Images\pin.png">
+      <PackagePath>Assets\Images\pin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BookTaxiV2.xr.xml">
+      <PackagePath>BookTaxiV2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\map.xbf">
+      <PackagePath>map.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\BookTaxiV2 %281%29 - Copy\BookTaxiV2\BookTaxiV2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PLUMIN-CANXA</Machine>
+    <WindowsUser>plumi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>16804aayushbhujel.BookYourTaxi</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A5BE425354E944B4175A67218F43B751400398C92F9ED9780FF8C297BABEB81D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>16804aayushbhujel.BookYourTaxi_1.0.0.0_neutral__h91ec2sr0tvyy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>16804aayushbhujel.BookYourTaxi_h91ec2sr0tvyy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>16804aayushbhujel.BookYourTaxi</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=plumi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-10T07:25:02.167</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiControlCenter.exe">
+      <PackagePath>TaxiControlCenter.exe</PackagePath>
+      <Modified>2016-01-10T07:25:00.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2016-01-08T05:37:03.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2016-01-08T05:37:03.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-01-08T05:36:51.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2016-01-08T05:36:46.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2016-01-08T05:36:46.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Image\hh.png">
+      <PackagePath>Assets\Image\hh.png</PackagePath>
+      <Modified>2016-01-07T18:09:23.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Image\key-512.png">
+      <PackagePath>Assets\Image\key-512.png</PackagePath>
+      <Modified>2016-01-07T15:28:30.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Image\Nepaltaxi.png">
+      <PackagePath>Assets\Image\Nepaltaxi.png</PackagePath>
+      <Modified>2016-01-07T15:28:31.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Image\taxi_driver.png">
+      <PackagePath>Assets\Image\taxi_driver.png</PackagePath>
+      <Modified>2016-01-07T18:03:50.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Image\user.png">
+      <PackagePath>Assets\Image\user.png</PackagePath>
+      <Modified>2016-01-07T15:28:31.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiControlCenter.xr.xml">
+      <PackagePath>TaxiControlCenter.xr.xml</PackagePath>
+      <Modified>2016-01-10T07:24:46.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\driverinfoentry.xbf">
+      <PackagePath>driverinfoentry.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\main.xbf">
+      <PackagePath>main.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiDriver.xbf">
+      <PackagePath>TaxiDriver.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\User.xbf">
+      <PackagePath>User.xbf</PackagePath>
+      <Modified>2016-01-10T07:25:00.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-10T07:25:01.727</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

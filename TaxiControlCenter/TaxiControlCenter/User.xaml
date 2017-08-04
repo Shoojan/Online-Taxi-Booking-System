@@ -1,0 +1,83 @@
+﻿<Page
+    x:Class="TaxiControlCenter.User"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TaxiControlCenter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#FFD1FF00">
+            
+            <TextBlock x:Name="Title" Text="USERS' INFORMATION" HorizontalAlignment="Center" FontSize="80" FontFamily="Forte" FontWeight="Bold" Foreground="Black" />
+            <Image HorizontalAlignment="Right" Width="100" Margin="0,0,150,0" Source="Assets/Image/hh.png"/>
+            <AppBarButton x:Name="refresh" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" Background="Black" BorderBrush="Black" Foreground="Black" FontSize="66.667" Icon="Refresh" Click="refresh_Click"/>
+            <AppBarButton x:Name="back" HorizontalAlignment="Right" Margin="0,0,0,0" VerticalAlignment="Top" Foreground="Black" BorderBrush="Black" Icon="Back" Background="Black" Click="back_Click"/>
+        </Grid>
+        <Grid x:Name="listtitle" Grid.Row="1" Margin="0,10">
+            <Grid.ColumnDefinitions>
+                
+                <ColumnDefinition Width="1.4*"/>
+                <ColumnDefinition Width="0.7*"/>
+                <ColumnDefinition Width=".8*"/>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="FULL NAME" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+            <TextBlock Grid.Column="1" Text="DOB" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+            <TextBlock Grid.Column="2" Text="PHONE" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+            <TextBlock Grid.Column="3" Text="EMAIL ID" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+            <TextBlock Grid.Column="4" Text="USERNAME" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+            <TextBlock Grid.Column="5" Text="PASSWORD" FontSize="24" FontWeight="Bold" TextAlignment="Left"/>
+
+        
+        </Grid>
+        
+        
+            <ListView Name="ListItems" Grid.Row="2" Margin="0,10" Foreground="White" Style="{StaticResource ListViewStyle1}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                    <StackPanel Orientation="Horizontal"  Height="50">
+                        <Grid Margin="0,15,0,0" Width="{Binding Path=ActualWidth, ElementName=listtitle}" >
+                            <Grid.ColumnDefinitions>
+                            
+                            <ColumnDefinition Width="1.4*"/>
+                            <ColumnDefinition Width="0.7*"/>
+                            <ColumnDefinition Width=".8*"/>
+                            <ColumnDefinition Width="1.2*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Name="nameblk" Text="{Binding Fullname}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            <TextBlock Grid.Column="1" Name="dobblk" Text="{Binding Dob}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            <TextBlock Grid.Column="2" Name="phoneblk" Text="{Binding Phone}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            <TextBlock Grid.Column="3" Name="emailblk" Text="{Binding Email}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            <TextBlock Grid.Column="4" Name="userblk" Text="{Binding Username}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            <TextBlock Grid.Column="5" Name="pwblk" Text="{Binding Password}" Margin="10,5" VerticalAlignment="Center" Foreground="White" FontSize="18"/>
+                            </Grid>
+    </StackPanel>
+                        
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        <ProgressRing Grid.Row="2" x:Name="userprog" HorizontalAlignment="Center" VerticalAlignment="Center" IsActive="False" Width="150" Height="150"/>
+
+    </Grid>
+        
+
+        
+       
+    
+</Page>

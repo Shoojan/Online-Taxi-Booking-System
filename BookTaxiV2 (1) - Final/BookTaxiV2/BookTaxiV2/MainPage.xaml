@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="BookTaxiV2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookTaxiV2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Tapped="textBlock_Tapped">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/Images/Nepaltaxi.png" Stretch="Uniform"/>
+        </Grid.Background>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="277.426" Margin="12.151,43.33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" FontSize="73.333" TextAlignment="Center" FontFamily="Arial Black" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Tapped="textBlock_Tapped" FontWeight="Bold" Foreground="#FFFDE70F">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="-8.984"/>
+            </TextBlock.RenderTransform>
+        	<Run Text="Tap "/>
+        	<LineBreak/>
+        	<Run Text="&amp;"/>
+        	<LineBreak/>
+        	<Run Text=" Book"/>
+        </TextBlock>
+        <Image x:Name="image" HorizontalAlignment="Center" Height="73" Margin="90,470,89,0" VerticalAlignment="Top" Width="221" Source="Assets/Images/taxi1.png" Tapped="textBlock_Tapped"/>
+
+    </Grid>
+</Page>

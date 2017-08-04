@@ -1,0 +1,373 @@
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\driverinfoentry.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.xr.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\resources.pri
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\AppxManifest.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.build.appxrecipe
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.i.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xaml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csproj.GenerateResource.Cache
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\plumi\Desktop\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csprojResolveAssemblyReference.cache
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\driverinfoentry.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.xr.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\resources.pri
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\AppxManifest.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.build.appxrecipe
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csprojResolveAssemblyReference.cache
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.i.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xaml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\driverinfoentry.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csproj.GenerateResource.Cache
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\plumi\Desktop\SAD Project\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\main.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiDriver.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\User.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.xr.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\resources.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\AppxManifest.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.build.appxrecipe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.winmd
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csprojResolveAssemblyReference.cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.i.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xaml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.exe
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.pdb
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csproj.GenerateResource.Cache
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\ProjectArchitectures.txt
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.xr.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\resources.pri
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\AppxManifest.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.build.appxrecipe
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.i.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.i.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.i.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.i.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xaml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xaml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xaml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xaml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xaml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csproj.GenerateResource.Cache
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\plumi\Desktop\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.xr.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\resources.pri
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\AppxManifest.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\TaxiControlCenter.build.appxrecipe
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Bing.Maps.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Extensions.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csprojResolveAssemblyReference.cache
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.i.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.i.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.i.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.i.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xaml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xaml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xaml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xaml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xaml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\App.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\main.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MainPage.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiDriver.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\User.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.exe
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.pdb
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\TaxiControlCenter.csproj.GenerateResource.Cache
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\plumi\Desktop\4th\SAD Final Solutions\TaxiControlCenter\TaxiControlCenter\obj\x86\Debug\ProjectArchitectures.txt

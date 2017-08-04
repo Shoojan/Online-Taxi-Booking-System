@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="TaxiControlCenter.TaxiDriver"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TaxiControlCenter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#FFD1FF00">
+            <TextBlock x:Name="Title" Text="DRIVERS AND TAXIS" HorizontalAlignment="Center" FontSize="80" FontFamily="Forte" FontWeight="Bold" Foreground="Black" />
+            <Image HorizontalAlignment="Left" Width="100" Margin="150,0,0,0" Source="Assets/Image/taxi_driver.png"/>
+            <AppBarButton x:ConnectionId='1' x:Name="refresh" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" Background="Black" BorderBrush="Black" Foreground="Black" FontSize="66.667" Icon="Refresh"                      />
+            <AppBarButton x:ConnectionId='2' x:Name="back" HorizontalAlignment="Right" Margin="0,0,0,0" VerticalAlignment="Top" Foreground="Black" BorderBrush="Black" Icon="Back" Background="Black"                   />
+        </Grid>
+
+
+        <Grid x:Name="ugrid" Margin="0,15,0,0" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="1.4*"/>
+                <ColumnDefinition Width="0.7*"/>
+                <ColumnDefinition Width=".8*"/>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="S.N." FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="1" Text="DRIVER NAME" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="2" Text="ADDRESS" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="3" Text="PHONE" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="4" Text="ROUTE" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="5" Text="TAXI NUMBER" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock Grid.Column="6" Text="EMPLOYED" FontSize="24" FontWeight="Bold" TextAlignment="Center"/>
+
+        </Grid>
+    </Grid>
+</Page>
+

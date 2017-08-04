@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\docs\college docs\4th sem\sad project\solution\booktaxiv2 (1) - copy\booktaxiv2\booktaxiv2\obj\debug\intermediatexaml\booktaxiv2.exe" HashGuid="0106a97e-26b1-306b-63a2-ac6cc9312192" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\windowsazure.messaging.managed.0.1.7.9\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\microsoft.azure.mobile.client.2.0.1\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="d7ccb84c-759c-fa2f-e873-8857cbb0622e" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\microsoft.azure.mobile.client.2.0.1\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="7257e1c7-0d78-874d-e034-cfcf53b1e796" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\slideview.1.4.2\lib\wpa81\slideview.library.dll" HashGuid="8bada411-7e4f-d4c4-fcf0-a85bac65ee0e" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\plumi\desktop\4th\sad final solutions\booktaxiv2 (1) - final\booktaxiv2\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

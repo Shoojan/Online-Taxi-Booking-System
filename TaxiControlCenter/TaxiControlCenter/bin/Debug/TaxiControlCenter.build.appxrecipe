@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RNUOGUG</Machine>
+    <WindowsUser>Aayus</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a110ab52-ef29-4174-a636-be5886c4822b</PackageIdentityName>
+    <IntermediateOutputPath>D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiControlCenter.exe">
+      <PackagePath>TaxiControlCenter.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Image\hh.png">
+      <PackagePath>Assets\Image\hh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Image\key-512.png">
+      <PackagePath>Assets\Image\key-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Image\Nepaltaxi.png">
+      <PackagePath>Assets\Image\Nepaltaxi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Image\taxi_driver.png">
+      <PackagePath>Assets\Image\taxi_driver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Image\user.png">
+      <PackagePath>Assets\Image\user.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiControlCenter.xr.xml">
+      <PackagePath>TaxiControlCenter.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\main.xbf">
+      <PackagePath>main.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\TaxiDriver.xbf">
+      <PackagePath>TaxiDriver.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\User.xbf">
+      <PackagePath>User.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Docs\College Docs\4th Sem\SAD Project\Solution\TaxiControlCenter\TaxiControlCenter\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
